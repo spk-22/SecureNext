@@ -3,3 +3,29 @@ Blockchain-Based Remote Voting System A secure and scalable remote voting soluti
 
 View the Secure Next dashbard :
 https://v0-secure-voting-system-design-j7jfzt.vercel.app/
+
+🚀 Key Features
+Biometric Authentication (Iris + Election ID via OpenCV)
+
+Liveness Detection for secure user verification
+
+Blockchain Voting using Ethereum (Truffle, Ganache, MetaMask)
+
+Tamper-Proof Vote Storage
+
+Admin Dashboard for physical verification and monitoring
+
+Secure Data Handling (TLS/SSL encryption, AES-256 at rest)
+
+AI-Powered Verification & Assistance using Gemini API and Vertex AI
+
+🛠️ Tech Stack
+Frontend: React / Next.js
+
+Backend: Flask on Google IDX
+
+Blockchain: Truffle, Ganache, Solidity, MetaMask
+
+AI/ML: Gemini API, Vertex AI
+
+Image Processing: OpenCV
